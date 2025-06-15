@@ -31,5 +31,7 @@ public class PhamViTruyCap {
 //    System.out.println(objPrivate.data);
 //    objPrivate.msg();
       System.out.println("Hello");
+
+      System.out.println("Hello2");
     }
   }
